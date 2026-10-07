@@ -59,6 +59,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Hootsuite](https://hootsuite.com/) – Schedule and manage LinkedIn content.
 - [Buffer](https://buffer.com/) – Social media management tool with LinkedIn support.
 - [Canva for LinkedIn](https://www.canva.com/create/linkedin-posts/) – Design professional LinkedIn posts and banners.
+- [ViralBrain LinkedIn Video Downloader](https://www.viralbrain.ai/tools/video-downloader) – Save LinkedIn post videos as HD MP4. Free, no account or extension required.
 
 ## Recruitment & Talent Solutions
 
